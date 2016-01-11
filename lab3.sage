@@ -237,6 +237,5 @@ test_average_number_of_observations()
 		
 
 # Improvement. Part 3
-def
 
 
